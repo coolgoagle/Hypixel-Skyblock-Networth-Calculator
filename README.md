@@ -7,7 +7,8 @@ How to use:
   4. Run `npm i`
   5. Run `npm start`
   6. Type in username to see networth of
-  7. Enjoy the results<br>
+  7. Enjoy the results
+<br>
 OR
 `run start.bat`
 
