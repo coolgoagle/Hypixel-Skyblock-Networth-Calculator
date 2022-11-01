@@ -8,5 +8,7 @@ How to use:
   5. Run `npm start`
   6. Type in username to see networth of
   7. Enjoy the results
+OR
+`run start.bat`
 
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=coolgoagle_HypixelSkyblockNetworthCalculator&color=000&text=Views&style=for-the-badge&logo=Github&logoColor=white">
