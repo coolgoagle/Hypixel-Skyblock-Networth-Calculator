@@ -13,3 +13,4 @@ IMPORTANT:
 - Once you have start.bat for the first time, the file will stay the same. You will not need to wait for it to install packages again, as they are installed on first launch
 
 <img src="https://github.com/coolgoagle/Hypixel-Skyblock-Networth-Calculator/raw/justaimage/justanimage.png">
+![]([https://gpvc.arturio.dev/coolgoagle](https://github.com/coolgoagle/Hypixel-Skyblock-Networth-Calculator/raw/justaimage/justanimage.png))
