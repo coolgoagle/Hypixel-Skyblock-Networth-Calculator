@@ -6,5 +6,7 @@ How to use:
   3. Use command prompt to cd into the directory
   4. Run `npm i`
   5. Run `npm start`
+  6. Type in username to see networth of
+  7. Enjoy the results
 
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=coolgoagle_HypixelSkyblockNetworthCalculator&color=000&text=Views&style=for-the-badge&logo=Github&logoColor=white">
