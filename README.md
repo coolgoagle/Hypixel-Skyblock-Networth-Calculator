@@ -7,4 +7,4 @@ How to use:
   4. Run `npm i`
   5. Run `npm start`
 
-![](https://gpvc.arturio.dev/hypixelskyblocknetworthcalculator)
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=coolgoagle_HypixelSkyblockNetworthCalculator&color=000&text=Repo Views&style=for-the-badge&logo=GitBook&logoColor=white)
