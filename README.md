@@ -1,5 +1,7 @@
 # Hypixel Skyblock Networth Calculator
 
+REQUIRES NODEJS
+
 How to use:
   1. Download as zip
   2. Extract the zip
