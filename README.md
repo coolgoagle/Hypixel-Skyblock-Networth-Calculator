@@ -12,4 +12,4 @@ IMPORTANT:
 - DO NOT delete the node_modules folder after running start.bat for the first time, as it will not install those packages again.
 - Once you have start.bat for the first time, the file will stay the same. You will not need to wait for it to install packages again, as they are installed on first launch
 
-<img src="https://github.com/coolgoagle/images/raw/networthcalculator.png">
+<img src="https://github.com/coolgoagle/images/blob/main/networthcalculator.png">
